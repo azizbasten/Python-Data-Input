@@ -1,0 +1,6 @@
+patokan code asli oleh Author: Dibyanshu Das <Dibyanshu2242@gmail.com> [ENGLISH]
+
+data yang di inputkan dari main.py akan ter save otomatis bila di enter akhir pada terminal 
+bilah tidak tersave lakukan 
+CNTRL+S untuk nge refleskan 
+data yang agar ke save Arigatsu
